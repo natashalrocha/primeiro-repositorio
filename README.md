@@ -1,2 +1,2 @@
 # primeiro-repositorio
-Desafio de projeto sobre Git/GitHub emoji:love
+Desafio de projeto sobre Git/GitHub
